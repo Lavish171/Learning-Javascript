@@ -43,5 +43,5 @@ else if(firstName=="Sussy")
 4+3;
 if(4+3===7)
 {
-    alert("Sum is 7");
+    //alert("Sum is 7");
 }
