@@ -1,4 +1,6 @@
 //we can put different types of values/items in array in js
+
+//In Js arrays are mutable
 var list=["one","two","three","Four"];
 console.log(list[2]);
 
