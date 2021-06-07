@@ -4,7 +4,7 @@
 //var secondName=prompt("Enter 2nd no");
 //var sum=Number(firstName)+Number(secondName);
 //console.log("The sum is"+sum);
-console.log(firstName);
+//console.log(firstName);
 //alert("Sum is "+sum);
 
 //alert("hi there");
@@ -17,14 +17,16 @@ console.log(firstName);
 // window won't be there and if window isn't there, neither 
 //will prompt() be. Run your code in a browser.
 
-var a=5;
-console.log(a);
+//var a=5;
+//console.log(a);
 //we can reassign a to another type of 
 //entry
 //if we do not assign any thing to the
 //variable,then we get the value of that
 //variable in console as undefined
-a="hello";
+
+
+/*a="hello";
 console.log(a);34
 
 
@@ -36,4 +38,10 @@ if(firstName==="Billy")
 else if(firstName=="Sussy")
 {
     alert("Hi sussi");
+}*/
+
+4+3;
+if(4+3===7)
+{
+    alert("Sum is 7");
 }
